@@ -5,8 +5,9 @@ import Button from "./componen/ui/Button";
 export default function Home() {
   return (
    <Layout>
-    <h1>Hello </h1>
-    <Button />
+   
+   <h1 className='text-2xl font-bold text-black'>Homeh </h1>
+  
    </Layout>
    
   );
